@@ -1,0 +1,13 @@
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\bin\Debug\Clients.dll.config
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\bin\Debug\Clients.dll
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\bin\Debug\Clients.pdb
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\bin\Debug\EntityFramework.dll
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\bin\Debug\EntityFramework.SqlServer.dll
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\bin\Debug\EntityFramework.xml
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\bin\Debug\EntityFramework.SqlServer.xml
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\obj\Debug\Clients.csproj.CoreCompileInputs.cache
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\obj\Debug\Clients.csproj.CopyComplete
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\obj\Debug\Clients.dll
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\obj\Debug\Clients.pdb
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\obj\Debug\Clients.Migrations.Init.resources
+F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Clients\obj\Debug\Clients.csproj.GenerateResource.cache
