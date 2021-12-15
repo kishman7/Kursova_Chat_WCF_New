@@ -19,7 +19,7 @@ namespace Chat_WCF
 
         public List<Client> GetAll() //виводимо всі клієнти
         {
-            // Извлечь всех заказчиков и отобразить их имена в консоли
+            // Извлечь всех заказчиков и вернуть их имена 
             return applicationContext.Clients.ToList();
         }
 

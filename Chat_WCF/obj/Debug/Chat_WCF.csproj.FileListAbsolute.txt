@@ -27,3 +27,18 @@ F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Ch
 F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Chat_WCF\bin\Debug\Clients.dll
 F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Chat_WCF\bin\Debug\Clients.pdb
 F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Chat_WCF\bin\Debug\Clients.dll.config
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\bin\Debug\Chat_WCF.dll.config
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\bin\Debug\Chat_WCF.dll
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\bin\Debug\Chat_WCF.pdb
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\bin\Debug\Clients.dll
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\bin\Debug\EntityFramework.dll
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\bin\Debug\EntityFramework.SqlServer.dll
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\bin\Debug\Clients.pdb
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\bin\Debug\Clients.dll.config
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\bin\Debug\EntityFramework.xml
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\bin\Debug\EntityFramework.SqlServer.xml
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\obj\Debug\Chat_WCF.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\obj\Debug\Chat_WCF.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\obj\Debug\Chat_WCF.csproj.CopyComplete
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\obj\Debug\Chat_WCF.dll
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\Chat_WCF\obj\Debug\Chat_WCF.pdb

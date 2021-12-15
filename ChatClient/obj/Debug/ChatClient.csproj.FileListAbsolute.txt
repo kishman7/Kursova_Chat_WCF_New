@@ -51,3 +51,26 @@ F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\Ch
 F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\ChatClient\bin\Debug\EntityFramework.xml
 F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\ChatClient\bin\Debug\EntityFramework.SqlServer.xml
 F:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_Vupravleno vukladachem\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\bin\Debug\ChatClient.exe.config
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\bin\Debug\ChatClient.exe
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\bin\Debug\ChatClient.pdb
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\bin\Debug\Clients.dll
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\bin\Debug\EntityFramework.dll
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\bin\Debug\EntityFramework.SqlServer.dll
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\bin\Debug\Clients.pdb
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\bin\Debug\Clients.dll.config
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\bin\Debug\EntityFramework.xml
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\bin\Debug\EntityFramework.SqlServer.xml
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\ChatClient.csprojAssemblyReference.cache
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\MainWindow.g.cs
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\App.g.cs
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\ChatClient_MarkupCompile.cache
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\ChatClient_MarkupCompile.lref
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\MainWindow.baml
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\ChatClient.g.resources
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\ChatClient.Properties.Resources.resources
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\ChatClient.csproj.GenerateResource.cache
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\ChatClient.csproj.CoreCompileInputs.cache
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\ChatClient.csproj.CopyComplete
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\ChatClient.exe
+f:\YURKO\SHAG\Project C#\Kursova_Chat\Kursova_Chat_WCF_2.0\ChatClient\obj\Debug\ChatClient.pdb

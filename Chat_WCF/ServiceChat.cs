@@ -25,7 +25,7 @@ namespace Chat_WCF
 
         public int Connect(string name) //реалізація методу для підключення user до  сервісу
         {
-            if (dataProvaider.GetByName(name) == false)
+            if (users.FirstOrDefault(x => x.Name == name) != null)//якщо в спису активних користувачів є вже такий користувач, то зєднання не відбувається
             {
                 return -1;
             }
@@ -38,13 +38,17 @@ namespace Chat_WCF
             };
       //      dbContext.Add(user);
 
-
             nextId++; //при створенні нового user, його ID збільшуємо на 1
 
             SendMsg(": " + user.Name + " підключився до чату!", 0); //визиваємо метод для того, щоб інші user бачили повідомлення про підключення нового user
                                                            //ставимо параметер "0", щоб не посилати повідомлення самому собі, так як user з ID "0" в списку немає
             
             users.Add(user); // добавляємо нового user в колекцію List
+
+            if (dataProvaider.GetByName(name) == true)//якщо користувач з новим створеним ім’ям, то записуємо його в базу даних
+            {
+                dataProvaider.Add(name);
+            }
 
             return user.ID; // повертає ID юзера
         }
