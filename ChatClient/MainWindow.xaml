@@ -5,13 +5,17 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:ChatClient"
         mc:Ignorable="d"
-        Title="MainWindow" Height="450" Width="800" Loaded="load_Loaded" Closing="load_Closing">
+        Title="MainWindow" Height="300" Width="505" Loaded="load_Loaded" Closing="load_Closing">
     <Grid>
-        <TextBox x:Name="tbUserName" HorizontalAlignment="Left" Height="44" Margin="284,10,0,0" TextWrapping="Wrap" Text="UserName" VerticalAlignment="Top" Width="498"/>
-        <Button x:Name="ConDiscon" Click="Button_Click" Content="Connect" HorizontalAlignment="Left" Margin="10,10,0,0" VerticalAlignment="Top" Width="230" Height="44"/>
-        <ListBox x:Name="lbChat" HorizontalAlignment="Left" Height="260" Margin="10,59,0,0" VerticalAlignment="Top" Width="772"/>
-        <TextBox x:Name="tbMessage" HorizontalAlignment="Left" Height="85" Margin="10,324,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="668" KeyDown="tbMessage_KeyDown"/>
-        <Button x:Name="btnSend" Click="btnSend_Click" Content="Send" HorizontalAlignment="Left" Margin="683,346,0,0" VerticalAlignment="Top" Width="99" Height="37"/>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition/>
+            <ColumnDefinition Width="395*"/>
+        </Grid.ColumnDefinitions>
+        <TextBox x:Name="tbUserName" HorizontalAlignment="Left" Height="44" Margin="282,10,0,0" TextWrapping="Wrap" Text="UserName" VerticalAlignment="Top" Width="199" Grid.Column="1"/>
+        <Button x:Name="ConDiscon" Click="Button_Click" Content="Connect" HorizontalAlignment="Left" Margin="8,10,0,0" VerticalAlignment="Top" Width="230" Height="44" Grid.Column="1"/>
+        <ListBox x:Name="lbChat" HorizontalAlignment="Left" Height="139" Margin="8,59,0,0" VerticalAlignment="Top" Width="473" Grid.Column="1"/>
+        <TextBox x:Name="tbMessage" HorizontalAlignment="Left" Height="56" Margin="10,203,0,0" TextWrapping="Wrap" Text="" VerticalAlignment="Top" Width="350" KeyDown="tbMessage_KeyDown" Grid.Column="1"/>
+        <Button x:Name="btnSend" Click="btnSend_Click" Content="Send" HorizontalAlignment="Left" Margin="375,212,0,0" VerticalAlignment="Top" Width="99" Height="37" Grid.Column="1" RenderTransformOrigin="0.303,-0.166"/>
 
     </Grid>
 </Window>
